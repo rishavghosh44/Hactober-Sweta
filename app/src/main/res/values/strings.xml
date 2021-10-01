@@ -1,13 +1,3 @@
 <resources>
-    <string name="app_name">AK\'s Calculator</string>
-    <string name="todo">TODO</string>
-    <string name="todo1">TODO</string>
-    <string name="todo2">TODO</string>
-    <string name="enter_1st_number">Enter 1st Number</string>
-    <string name="enter_2nd_number">Enter 2nd Number</string>
-    <string name="result">Result</string>
-    <string name="devide">DEVIDE</string>
-    <string name="multiply">MULTIPLY</string>
-    <string name="subtract">SUBTRACT</string>
-    <string name="add">ADD</string>
+    <string name="app_name">backup</string>
 </resources>
